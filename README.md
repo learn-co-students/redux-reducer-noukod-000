@@ -8,7 +8,7 @@
 2. The reducer should be a pure function.
 3. Write a reducer that takes an action(payload).
 
-## Overview
+### Overview
 
 Each year, around the holidays especially, we forget who we need to buy presents
 for. Let's write a function that will help us manage our gift recipient list. We
