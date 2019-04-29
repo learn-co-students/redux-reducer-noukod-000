@@ -1,4 +1,3 @@
-
 export function managePresents(state, action){
   switch (action.type) {
     case 'INCREASE':
@@ -6,9 +5,4 @@ export function managePresents(state, action){
     default:
       return state;
   }
-
-export function managePresents(text){
-  const action = {
-    type: "INCREASE",
-    text
 }
