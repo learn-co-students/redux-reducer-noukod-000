@@ -5,6 +5,7 @@
 ## Objectives
 
 1. Write a reducer.
+1.Write a reducer.
 2. The reducer should be a pure function.
 3. Write a reducer that takes an action(payload).
 
